@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EjerMenu</string>
+    <string name="txt_welcome">Benvingut a Ej1</string>
+    <string name="btn_play">Jugar</string>
+    <string name="btn_ranking">Rànquing</string>
+    <string name="btn_settings">Ajustaments</string>
+    <string name="btn_pers">Quant A</string>
+</resources>
